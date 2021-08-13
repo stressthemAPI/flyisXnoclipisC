@@ -10,3 +10,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin/main/x%
 loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin/main/x%20to%20fly", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin/main/x%20to%20fly", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin/main/x%20to%20fly", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/flyisXnoclipisC/main/bruh", true))()
