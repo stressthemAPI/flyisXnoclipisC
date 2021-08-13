@@ -2,3 +2,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin2/main/c
 loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin/main/x%20to%20fly", true))()
 wait(1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin2/main/c%20to%20noclip", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin/main/x%20to%20fly", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin2/main/c%20to%20noclip", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/valssss/admin/main/x%20to%20fly", true))()
